@@ -1,2 +1,2 @@
-# estudopython
+# PythonDataScience
 Exercícios 
